@@ -7,8 +7,3 @@ This is my personal portfolio website built to showcase my projects, skills, and
 - Education Qualifications
 - Contact information
 - Responsive design
-
-## 🔹 Technologies Used
-- HTML
-- CSS
-- JavaScript
