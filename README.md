@@ -4,7 +4,7 @@ This is my personal portfolio website built to showcase my projects, skills, and
 
 ## 🔹 Features
 - About Me section
-- Projects with links
+- Education Qualifications
 - Contact information
 - Responsive design
 
