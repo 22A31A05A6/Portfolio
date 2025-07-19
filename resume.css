@@ -1,0 +1,60 @@
+#he{
+    background-color: rgb(33, 30, 30); 
+    color: white;"
+}
+#pp{
+    padding-top: 10%;
+   font-size: large;
+    text-align: start;
+    font-size: large;
+}
+
+/* Basic reset and layout */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-content {
+    margin: 0;
+}
+
+.footer-content p {
+    margin: 10px 0;
+}
+
+.footer-content a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;
+}
+
+.social-links {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.social-links li {
+    display: inline;
+    margin: 0 10px;
+}
